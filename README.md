@@ -9,6 +9,11 @@ spark 学习使用
                 <version>${spark.version}</version>
      </dependency>
 
+     <properties>
+            <spark.version>2.2.0</spark.version>
+            <scala.version>2.11</scala.version>
+     </properties>
+
 ```
 
 
